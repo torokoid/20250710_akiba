@@ -184,6 +184,12 @@ p.note { display: none; }
 <h2><span class="yellow">電源用のコンデンサーも各種取り揃え</span></h2>
 <a href="20250710_122.JPG" target="_blank"><img src="20250710_122.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">勇気を振り絞ってお姉様達からもらったパンフ</span></h2>
+<a href="20250710_123.JPG" target="_blank"><img src="20250710_123.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250710_124.JPG" target="_blank"><img src="20250710_124.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250710_125.JPG" target="_blank"><img src="20250710_125.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <h2><span class="yellow">Hotel入口では風鈴の音色が綺麗でした</span></h2>
 <h2><a href="IMG_7977.MOV" target="_blank">文字のクリックで動画再生します</a></h2>
 
