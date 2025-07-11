@@ -185,7 +185,7 @@ p.note { display: none; }
 <a href="20250710_122.JPG" target="_blank"><img src="20250710_122.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">Hotel入口では風鈴の音色が綺麗でした</span></h2>
-<h2><a href="IMG_7977.NOV" target="_blank">文字のクリックで動画再生します</a></h2>
+<h2><a href="IMG_7977.MOV" target="_blank">文字のクリックで動画再生します</a></h2>
 
 
 <br><br><br><br><br><br><br><br><br>
