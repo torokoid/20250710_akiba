@@ -157,7 +157,7 @@ p.note { display: none; }
 <h2><span class="yellow">中古PCは、ジャンク品まで並びます</span></h2>
 <a href="20250710_111.JPG" target="_blank"><img src="20250710_111.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">白人カップルも秋葉原電気街側を散策中</span></h2>
+<h2><span class="yellow">白人カップルも秋葉原電気街を散策中</span></h2>
 <a href="20250710_112.JPG" target="_blank"><img src="20250710_112.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ゲーミングノートPCのフラッグシップ</span></h2>
